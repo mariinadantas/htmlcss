@@ -1,0 +1,44 @@
+body {
+    background-image: url('https://cdn.hipwallpaper.com/i/9/42/xi0HfM.jpg');
+    background-size: 1050px;
+   font-family: Candara;
+    height: 100vh;
+  }
+  
+  .menu{
+    background-color: white;  
+  }
+  
+  .menu li {
+    list-style: none;
+  }
+  
+  .menu ul {
+    display: flex;
+    justify-content: space-around;
+  }
+  a {
+    color: teal;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  .descricao,
+  .site-subtitle,
+  .site-title {
+    color: orange;
+    text-align: center;
+    
+  }
+  
+  .descricao,
+  .site-subtitle
+   {
+    color: black;
+     font-style: italic;
+  }
+  
+  
